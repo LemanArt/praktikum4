@@ -25,3 +25,5 @@ terakhir print (74*"=") untuk penutup tabel
 
 Berikut adalah contoh hasil ketika program dijalankan
 ![Gambar 1](ss/4.png)
+Berikut ini adalah flowchartnya
+![Gambar 1](ss/flow.png)
