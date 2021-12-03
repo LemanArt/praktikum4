@@ -22,3 +22,6 @@ kemudian kita membuat tabel manual untuk data dengan source code sebagai berikut
     print (74*"=")
 Lalu tampilkan variabel data yg sudah di input dengan beberapa elemen tadi, banyaknya data tergantung inputan user.
 terakhir print (74*"=") untuk penutup tabel
+
+Berikut adalah contoh hasil ketika program dijalankan
+![Gambar 1](ss/4.png)
